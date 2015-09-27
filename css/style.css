@@ -1,0 +1,23 @@
+body {
+	width: 50%;
+	margin:0 auto;
+}
+
+.ng-invalid.ng-dirty {
+	border-color: #FA787E;
+}
+
+.ng-valid.ng-dirty {
+	border-color: #78FA79;
+}
+
+.big-image{
+	width: 300px;
+	height: 300px; 
+	margin:0 auto;
+}
+
+.small-image{
+	width: 100px;
+	height: 100px; 
+}
